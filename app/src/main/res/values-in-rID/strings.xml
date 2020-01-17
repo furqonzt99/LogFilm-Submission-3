@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">Tagline</string>
+    <string name="duration">Durasi</string>
+    <string name="error">Mohon Periksa Koneksi Anda!</string>
+    <string name="genre">Aliran</string>
+    <string name="status">Status</string>
+    <string name="hello_blank_fragment">Halo fragment kosong</string>
+    <string name="like">Suka</string>
+    <string name="menu_setting">Pengaturan</string>
+    <string name="other">Lainnya</string>
+    <string name="realease_date">Tanggal Rilis</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="tab_movies">FILM</string>
+    <string name="tab_tvshows">TAYANGAN TV</string>
+    <string name="minutes">" Menit"</string>
+    <string name="all_ages">Semua Umur</string>
+    <string name="group">Golongan</string>
+    <string name="episodes">Episode</string>
+    <string name="popularity">Popularitas</string>
+    <string name="seasons">Musim</string>
+</resources>

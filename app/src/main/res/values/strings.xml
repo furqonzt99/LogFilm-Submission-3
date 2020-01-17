@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">LogFilm</string>
+    <string name="menu_setting">Setting</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_movies">MOVIES</string>
+    <string name="tab_tvshows">TV SHOWS</string>
+    <string name="realease_date">Realease Date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="genre">Genre</string>
+    <string name="duration">Duration</string>
+    <string name="tagline">Tagline</string>
+    <string name="status">Status</string>
+    <string name="like">Like</string>
+    <string name="other">Other</string>
+    <string name="error">Please Check Your Connection!</string>
+    <string name="minutes">" Minutes"</string>
+    <string name="all_ages">All Ages</string>
+    <string name="adult" translatable="false">17+</string>
+    <string name="group">Group</string>
+    <string name="episodes">Episodes</string>
+    <string name="seasons">Seasons</string>
+    <string name="popularity">Popularity</string>
+</resources>
